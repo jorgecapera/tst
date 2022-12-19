@@ -10,6 +10,9 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <?php
+         echo "2"
+        ?>
         5
     </body>
 </html>
