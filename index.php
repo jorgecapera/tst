@@ -13,6 +13,6 @@ and open the template in the editor.
         <?php
          echo "2"
         ?>
-        5
+        <label>Label de prueba</label>
     </body>
 </html>
